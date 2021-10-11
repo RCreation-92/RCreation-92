@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RCreation-92
 - 👀 I’m interested in Python, R
+- Experienced in Python, R, Javascript and other visualization tools
 - 🌱 I’m currently learning Git, Docker, Kubernetes, Sonarqube
 - 📫 How to reach me ...
 
